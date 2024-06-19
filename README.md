@@ -9,8 +9,8 @@
 </h1>
 
 ## _Project Name_
-_The project name should match its code's capability so that new users can easily understand what it does._
-
+extract the combine all dataset using stt-combine-all repo, then after getting the stt-combine-all csv file, then run this jupyter notebook, to 
+get the inference of the audios using latest model, then split the csv file in the range of 1000 for each and and upload to MonlamAI org in github.
 ## Owner(s)
 
 _Change to the owner(s) of the new repo. (This template's owners are:)_
